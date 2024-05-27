@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+#encabezado{
+	background: #042159;
+	height: 200px;
+}
+
+.eslogan{
+	text-align: center;
+	color: white;
+	margin: 0;
+	line-height: 70px;
+}
+
+.titulo{
+	text-align: center;
+	color: white;
+	line-height: 100px;
+	margin: 0;
+}
+
+.bloque{
+	display: block;
+	width: 100px;
+	height: 30px;
+	background-color: #dc143f;
+	margin: 5px;
+	text-align: center;
+}
+
+.caja{
+	display: flex;
+	padding-left: 20em;
+}
